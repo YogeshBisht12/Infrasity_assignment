@@ -164,5 +164,5 @@ If this project helped you:
 ---
 
 ## 👨‍💻 Developed By  
-**Yash (CodeWithYash)**  
+**Yogesh Bisht**  
 MERN Stack Developer | Backend Engineer  
